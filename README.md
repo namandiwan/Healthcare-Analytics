@@ -45,12 +45,16 @@ You can treat this dataset as a Multi-Class Classification Problem and solve it 
 
 Two Jupyter notebooks are included in this repository:
 
-1. **Data Analysis Notebook (`data_analysis.ipynb`)**: This notebook provides an exploratory data analysis of the synthetic healthcare dataset. It includes data cleaning, transformation, and visualization techniques to gain insights into the dataset.
+1. **Data Analysis Notebook (`Healthcare-Data-Analysis.ipynb`)**: This notebook provides an exploratory data analysis of the synthetic healthcare dataset. It includes data cleaning, transformation, and visualization techniques to gain insights into the dataset.
 
-2. **Healthcare Classification Notebook (`healthcare_classification.ipynb`)**: This notebook demonstrates the process of building classification models to predict the test results using various classification algorithms. It includes model training, evaluation, and comparison of different models.
+2. **Healthcare Classification Notebook (`Healthcare-Classification.ipynb`)**: This notebook demonstrates the process of building classification models to predict the test results using various classification algorithms. It includes model training, evaluation, and comparison of different models.
 
 ## Acknowledgments
 
 I acknowledge the importance of healthcare data privacy and security and emphasize that this dataset is entirely synthetic. It does not contain any real patient information or violate any privacy regulations.
 
 I hope that this dataset contributes to the advancement of data science and healthcare analytics and inspires new ideas. Feel free to explore, analyze, and share your findings.
+
+## References
+
+This is the [Link](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) to this dataset on Kaggle
